@@ -9,9 +9,10 @@ Main Features:
 05.Faculty 
 
 It will help with those are given below :
-Curriculum Organization
-Student Organization
-Reducing Confusion
+
+Curriculum Organization, 
+Student Organization, 
+Reducing Confusion, 
 Routines Are Helpful
 
 
