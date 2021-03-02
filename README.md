@@ -3,10 +3,10 @@
 Main Features:
 
 01.Student group  
-02.Class Room
-03.CourseName                               
-04.Class Time
-05.Faculty
+02.Class Room 
+03.CourseName                                
+04.Class Time 
+05.Faculty 
 
 It will help with those are given below :
 Curriculum Organization
